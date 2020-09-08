@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: black;
+    color: white;
+    font-size: 14px;
+}
+h3 {
+    text-align: center;
+    line-height: 2em;
+}
+header {
+    background-color: purple;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px
+}
+main {
+    padding: 15px 20%;
+}
+a {
+    text-decoration: none;
+    color: brown;
+}
+.link-to-site {
+    margin-bottom: 10px;
+}
+.center {
+    text-align: center;
+}
+.description {
+    margin: 5px 0;
+    text-align: justify;
+}
+.program-product {
+    padding: 5px;
+    text-align: center;
+    border-style: outset;
+    border-color: purple;
+    margin-bottom: 5px;
+}
+.info {
+    padding: 10px;
+    border-style: outset;
+    border-color: purple;
+    line-height: 1.5em;
+}
+.map {
+    background-color: darkslategray;
+    display: inline;
+}
+ul {
+    text-align: center;
+}
+li {
+    display: inline-block;
+    margin: 15px;
+    list-style-type: none;
+    color: aqua;
+}
+table {
+    width: 300px;
+    border: 1px solid aqua;
+    margin: auto;
+}
+.imgmap {
+    margin: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
